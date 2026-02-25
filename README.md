@@ -1,2 +1,4 @@
 ﻿# first-project
+ print("hello")
+
 
